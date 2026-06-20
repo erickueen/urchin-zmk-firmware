@@ -1,0 +1,11 @@
+.west/
+build/
+modules/
+nice-view-gem/
+optional/
+urchin-zmk-module/
+zephyr/
+zmk/
+
+*.uf2
+device_info/
