@@ -109,7 +109,7 @@
     </g>
     <g transform="rotate(30 249.6 224.4)">
     <rect class="key" x="225.6" y="200.4" width="48" height="48" rx="8" fill="#f5a97f"/>
-    <text x="249.6" y="218.4" class="tap" style="font-size:12px;fill:#24273a">ESC</text>
+    <text x="249.6" y="218.4" class="tap" style="font-size:12px;fill:#24273a">TAB</text>
     <text x="249.6" y="239.4" class="hold" style="fill:rgba(36,39,58,0.70)">Keypad</text>
     </g>
     <g transform="rotate(-30 384 224.4)">
@@ -124,19 +124,19 @@
     </g>
   </g>
   <g class="shortcut">
-  <path d="M 478.6 180 C 478.6 210, 382.6 210, 382.6 468.4"/>
+  <path d="M 353.8 180 C 353.8 210, 325.0 210, 325.0 446.8"/>
+  <circle cx="325.0" cy="446.8" r="4.2"/>
+  <path d="M 353.8 180 C 353.8 210, 382.6 210, 382.6 468.4"/>
   <circle cx="382.6" cy="468.4" r="4.2"/>
-  <path d="M 478.6 180 C 478.6 210, 574.6 210, 574.6 446.8"/>
-  <circle cx="574.6" cy="446.8" r="4.2"/>
-  <rect x="433.1" y="160" width="91" height="22" rx="11"/>
-  <text x="478.6" y="175">Caps Lock</text>
+  <rect x="324.8" y="160" width="58" height="22" rx="11"/>
+  <text x="353.8" y="175">ESC</text>
   </g>
   <g class="shortcut">
-  <path d="M 622.6 208 C 622.6 210, 598.6 210, 598.6 286.0"/>
-  <circle cx="598.6" cy="286.0" r="4.2"/>
-  <path d="M 622.6 208 C 622.6 210, 646.6 210, 646.6 268.0"/>
-  <circle cx="646.6" cy="268.0" r="4.2"/>
-  <rect x="593.6" y="188" width="58" height="22" rx="11"/>
-  <text x="622.6" y="203">Tab</text>
+  <path d="M 449.8 208 C 449.8 210, 325.0 210, 325.0 446.8"/>
+  <circle cx="325.0" cy="446.8" r="4.2"/>
+  <path d="M 449.8 208 C 449.8 210, 574.6 210, 574.6 446.8"/>
+  <circle cx="574.6" cy="446.8" r="4.2"/>
+  <rect x="404.3" y="188" width="91" height="22" rx="11"/>
+  <text x="449.8" y="203">Caps Lock</text>
   </g>
 </svg>

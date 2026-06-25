@@ -54,9 +54,12 @@
     <rect class="key" x="96" y="48" width="48" height="48" rx="8" fill="#181926"/>
     <rect class="key" x="144" y="66" width="48" height="48" rx="8" fill="#181926"/>
     <rect class="key" x="192" y="75.6" width="48" height="48" rx="8" fill="#181926"/>
-    <rect class="key" x="393.6" y="75.6" width="48" height="48" rx="8" fill="#181926"/>
-    <rect class="key" x="441.6" y="66" width="48" height="48" rx="8" fill="#181926"/>
-    <rect class="key" x="489.6" y="48" width="48" height="48" rx="8" fill="#181926"/>
+    <rect class="key" x="393.6" y="75.6" width="48" height="48" rx="8" fill="#91d7e3"/>
+    <text x="417.6" y="101.6" class="tap" style="font-size:12px;fill:#24273a">Prev</text>
+    <rect class="key" x="441.6" y="66" width="48" height="48" rx="8" fill="#91d7e3"/>
+    <text x="465.6" y="92" class="tap" style="font-size:12px;fill:#24273a">Play</text>
+    <rect class="key" x="489.6" y="48" width="48" height="48" rx="8" fill="#91d7e3"/>
+    <text x="513.6" y="74" class="tap" style="font-size:12px;fill:#24273a">Next</text>
     <rect class="key" x="537.6" y="66" width="48" height="48" rx="8" fill="#c6a0f6"/>
     <text x="561.6" y="92" class="tap" style="font-size:10px;fill:#24273a">BT_CLR</text>
     <rect class="key" x="585.6" y="96" width="48" height="48" rx="8" fill="#939ab7"/>

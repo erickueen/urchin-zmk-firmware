@@ -154,11 +154,12 @@ const KEY_LABELS = {
   LEFT: 'Left', RIGHT: 'Right', UP: 'Up', DOWN: 'Down', HOME: 'Home', END: 'End', PG_UP: 'PgUp', PG_DN: 'PgDn',
   KP_N0: '0', KP_N1: '1', KP_N2: '2', KP_N3: '3', KP_N4: '4', KP_N5: '5', KP_N6: '6', KP_N7: '7', KP_N8: '8', KP_N9: '9',
   KP_MINUS: '-', KP_SLASH: '/', KP_PLUS: '+', KP_MULTIPLY: '*', KP_NUM: 'Num', KP_ENTER: 'Enter', KP_DOT: '.',
-  C_MUTE: 'Mute', C_VOLUME_DOWN: 'Vol-', C_VOLUME_UP: 'Vol+',
+  C_MUTE: 'Mute', C_VOLUME_DOWN: 'Vol-', C_VOLUME_UP: 'Vol+', C_PREV: 'Prev', C_PP: 'Play', C_NEXT: 'Next',
+  GLOBE: 'Globe',
 };
 
 const SHIFT_LABELS = {
-  'LS(N1)': '!', 'LS(N2)': '@', 'LS(N3)': '#', 'LS(N4)': '$', 'LS(N5)': '%', 'LS(N6)': '^', 'LS(N8)': '*', 'LS(N9)': '(', 'LS(N0)': ')',
+  'LS(N1)': '!', 'LS(N2)': '@', 'LS(N3)': '#', 'LS(N4)': '$', 'LS(N5)': '%', 'LS(N6)': '^', 'LS(N7)': '&', 'LS(N8)': '*', 'LS(N9)': '(', 'LS(N0)': ')',
   'LS(GRAVE)': '~', 'LS(COMMA)': '<', 'LS(BSLH)': '|', 'LS(DOT)': '>', 'LS(LBKT)': '{', 'LS(RBKT)': '}', 'LS(FSLH)': '?', 'LS(SQT)': '"',
   'LS(MINUS)': '_', 'LS(SEMI)': ':', 'LS(TAB)': 'PrevTab',
 };

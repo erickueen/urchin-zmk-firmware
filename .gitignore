@@ -9,3 +9,4 @@ zmk/
 
 *.uf2
 device_info/
+.docker-build/

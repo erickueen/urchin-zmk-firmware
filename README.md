@@ -11,7 +11,7 @@ The keymap adapts the Corne GO60-style layout to the Urchin 3x5+2 layout, with b
 ## Firmware Notes
 
 - Root build artifacts are expected as `urchin_left.uf2` and `urchin_right.uf2`.
-- The Urchin keymap intentionally drops the Corne outer columns and maps the retained four thumb keys to Backspace, Escape, Enter, and Space.
+- The Urchin keymap intentionally drops the Corne outer columns and maps the retained four thumb keys to Backspace, Tab, Enter, and Space.
 - The visual layer reference is generated from `config/urchin.keymap` using the physical coordinates in `config/urchin.json`.
 
 ## Magic Layer
