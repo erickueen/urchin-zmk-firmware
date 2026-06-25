@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="430" viewBox="0 0 920 430" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="498" viewBox="0 0 920 498" role="img" aria-labelledby="title desc">
   <title id="title">10 / R-Index Urchin keymap layer</title>
   <desc id="desc">Holding right index (J/Shift). Bilateral tapping for Shift.</desc>
   <style>
@@ -16,7 +16,7 @@
     .shortcut rect { fill: #181926; stroke: #8bd5ca; stroke-width: 1.2; }
     .shortcut text { font: 800 11px Inter, Avenir Next, Segoe UI, sans-serif; fill: #cad3f5; text-anchor: middle; letter-spacing: .2px; }
   </style>
-  <rect x="0" y="0" width="920" height="430" rx="28" fill="#24273a"/>
+  <rect x="0" y="0" width="920" height="498" rx="28" fill="#24273a"/>
   <circle cx="105" cy="42" r="140" fill="#c6a0f6" opacity="0.10"/>
   <circle cx="790" cy="70" r="190" fill="#8aadf4" opacity="0.10"/>
   <text x="60" y="50" class="title">10 / R-Index</text>
@@ -29,10 +29,10 @@
 <text x="316" y="124" class="legend-text">Alpha</text>
 <rect x="365" y="112" width="14" height="14" rx="3" fill="#181926"/>
 <text x="385" y="124" class="legend-text">None</text>
-  <rect x="117" y="138" width="686" height="248" rx="22" fill="#1e2030" stroke="#494d64" stroke-width="1.5"/>
-  <text x="268" y="160" class="half">LEFT</text>
-  <text x="652" y="160" class="half">RIGHT</text>
-  <g transform="translate(133 176)">
+  <rect x="117" y="206" width="686" height="248" rx="22" fill="#1e2030" stroke="#494d64" stroke-width="1.5"/>
+  <text x="268" y="228" class="half">LEFT</text>
+  <text x="652" y="228" class="half">RIGHT</text>
+  <g transform="translate(133 244)">
     <rect class="key" x="0" y="48" width="48" height="48" rx="8" fill="#363a4f"/>
     <text x="24" y="73" class="tap transparent">↓</text>
     <rect class="key" x="48" y="18" width="48" height="48" rx="8" fill="#363a4f"/>
@@ -112,5 +112,12 @@
     <text x="441.6" y="203.8" class="tap transparent">↓</text>
     </g>
   </g>
-  
+  <g class="shortcut">
+  <path d="M 353.8 180 C 353.8 210, 325.0 210, 325.0 446.8"/>
+  <circle cx="325.0" cy="446.8" r="4.2"/>
+  <path d="M 353.8 180 C 353.8 210, 382.6 210, 382.6 468.4"/>
+  <circle cx="382.6" cy="468.4" r="4.2"/>
+  <rect x="324.8" y="160" width="58" height="22" rx="11"/>
+  <text x="353.8" y="175">ESC</text>
+  </g>
 </svg>

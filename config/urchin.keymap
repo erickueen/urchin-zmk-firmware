@@ -680,7 +680,9 @@
         compatible = "zmk,combos";
 
         combo_esc { timeout-ms = <50>; key-positions = <30 31>; bindings = <&kp ESC>;
-            layers = <LAYER_HRM_macOS LAYER_Typing LAYER_Autoshift>; };
+            layers = <LAYER_HRM_macOS LAYER_Typing LAYER_Autoshift
+                LAYER_LeftPinky LAYER_LeftRingy LAYER_LeftMiddy LAYER_LeftIndex
+                LAYER_RightPinky LAYER_RightRingy LAYER_RightMiddy LAYER_RightIndex>; };
 
         combo_capslock { key-positions = <30 33>; bindings = <&caps_shift LSHFT CAPS>; slow-release;
             layers = <LAYER_HRM_macOS LAYER_Typing LAYER_Autoshift>; };
